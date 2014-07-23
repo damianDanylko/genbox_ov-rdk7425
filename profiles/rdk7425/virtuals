@@ -1,0 +1,4 @@
+virtual/boardlayout     sys-apps/rdk7425-layout
+virtual/linux-sources   sys-kernel/rdk7425-sources
+virtual/nexus           media-libs/nexus-unified
+virtual/opengl          media-libs/nexus-unified

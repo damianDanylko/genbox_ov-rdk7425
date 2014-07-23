@@ -1,0 +1,4 @@
+USE_EXPAND="$USE_EXPAND ELIBC"
+# ebuild which inherit from platform-config requires WYPLAY_BOARD to be set
+WYPLAY_BOARD="rdk7425"
+WYPLAY_CPU="BCM7425"
